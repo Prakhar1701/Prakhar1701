@@ -5,6 +5,3 @@
  💬 Ask me about :
 -  Android Mobile App Development
 -  Android Studio
-
-
-
