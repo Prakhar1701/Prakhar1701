@@ -11,6 +11,5 @@
 -  Android Studio
 
 
+![github contribution grid snake animation](https://github.com/Prakhar1701/Prakhar1701/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](github.com/Prakhar1701/Prakhar1701/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![GitHub Snake Light](https://github.com/Prakhar1701/Prakhar1701/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake dark](https://github.com/Prakhar1701/Prakhar1701/blob/output/github-contribution-grid-snake-dark.svg)
