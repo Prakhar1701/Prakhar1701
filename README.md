@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Prakhar</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi 👋🏻, I'm Prakhar</h1>
 
-
-<h1>💬 <b>Ask me about:</b></h1>
+<h3>💬&nbsp Ask me about:</h3>
 
 -  Data Structures & Algorithms
 
@@ -10,6 +8,13 @@
 
 -  Android Studio
 
+<!-- Snake Eating Contributions:-->
 
-![github contribution grid snake animation](https://github.com/Prakhar1701/Prakhar1701/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/Prakhar1701/Prakhar1701/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!-- For GitHub Light Mode -->
+![github contribution grid snake animation](https://github.com/Prakhar1701/Prakhar1701/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<!-- For GitHub Dark Mode -->
+![github contribution grid snake animation](https://github.com/Prakhar1701/Prakhar1701/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
 
