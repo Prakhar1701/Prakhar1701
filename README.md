@@ -10,3 +10,7 @@
 
 -  Android Studio
 
+## Snake eating my contribution graph
+![snake gif](https://github.com/Prakhar1701/Prakhar1701/blob/output/github-contribution-grid-snake.gif)
+
+
