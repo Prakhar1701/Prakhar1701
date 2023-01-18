@@ -2,7 +2,7 @@
 
 ---
 
-<h3>🔴⤃&nbspAsk me about:</h3>
+<h3>🔴>&nbspAsk me about:</h3>
 
 <ul>
 <li>Data Structures & Algorithms</li>
