@@ -1,23 +1,25 @@
-<h1 align="center">Hi 👋🏻, I'm Prakhar</h1>
+<h1 align="center">Hi👋🏻, I'm Prakhar</h1>
 
-<h3>💬&nbsp Ask me about:</h3>
+---
 
--  Data Structures & Algorithms
+<h3>🔴⤃&nbspAsk me about:</h3>
 
--  Android Mobile App Development
+<ul>
+<li>Data Structures & Algorithms</li>
+<li>Android Mobile App Development</li>
+<li>Android Studio</li>
+</ul>
 
--  Android Studio
+---
 
-<h4 align="center">Look snake🐍 eating my contributions 😉</h4>
+<h4 align="center">Snake🐍 eating my contributions! 😉</h4>
 
-<!-- Snake Eating Contributions:-->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prakhar1701/Prakhar1701/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prakhar1701/Prakhar1701/output/github-contribution-grid-snake.svg">
+  <img alt="Sorry Something Went Wrong..." src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
 
-<!-- For GitHub Light Mode -->
-![github contribution grid snake animation](https://github.com/Prakhar1701/Prakhar1701/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<!-- For GitHub Dark Mode -->
-![github contribution grid snake animation](https://github.com/Prakhar1701/Prakhar1701/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
-
-
+---
