@@ -45,4 +45,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Prakhar1701&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prakhar1701&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar1701&theme=bluegreen&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar1701&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
